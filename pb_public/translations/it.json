@@ -1,0 +1,679 @@
+{
+  "home": {
+    "stats": {
+      "progress": "Progressi",
+      "streak": "Giorno | Giorni",
+      "cards": "Carte imparate"
+    },
+    "leaderboard": {
+      "title": "Classifica"
+    },
+    "title": "Progressi",
+    "suggestions": "Suggerimenti degli amici"
+  },
+  "profiles": {
+    "suggestions": "Suggerimenti degli amici"
+  },
+  "list": {
+    "title": "I miei mazzi",
+    "all": "Recensire tutto",
+    "noDecks": "Ancora nessuna flashcard"
+  },
+  "global": {
+    "add": "Aggiungi",
+    "review": "Recensione",
+    "confirm": "Confermare",
+    "loading": "Caricamento...",
+    "next": "Avanti",
+    "back": "Torna a",
+    "day": "{n} giorno | {n} giorni",
+    "cancel": "Annullamento",
+    "learnedCards": "{number} di carte apprese | {number} di carte apprese",
+    "save": "Registro",
+    "delete": "Cancellare",
+    "card": "{number} di carte | {number} di carte",
+    "selectAll": "Seleziona tutti",
+    "deselectAll": "Deselezionare tutti",
+    "question": "Domanda",
+    "answer": "Risposta",
+    "edit": "Modificare",
+    "colors": {
+      "blue": "Blu",
+      "red": "Rosso",
+      "green": "Verde",
+      "yellow": "Giallo",
+      "purple": "Viola",
+      "indigo": "Indaco",
+      "orange": "Arancione",
+      "dark-blue": "Blu scuro"
+    },
+    "today": "Oggi",
+    "tomorrow": "Domani",
+    "duplicate": "Duplicato",
+    "continue": "Continua",
+    "check": "Controllare la risposta",
+    "share": "Condividi",
+    "login": "Collegare",
+    "learn_more": "Per saperne di più",
+    "install": "Installare",
+    "me": "Me",
+    "week": "{n} settimana | {n} settimane",
+    "month": "{n} mesi",
+    "graph": "Grafico",
+    "new": "Nuovo",
+    "leaderboard": "Classifica",
+    "freeze": "Congelare",
+    "search": "Ricerca",
+    "confirmDelete": "Confermare la cancellazione?",
+    "create": "Creare"
+  },
+  "review": {
+    "finish": "Sei al passo con i tempi!",
+    "back": "Torna alla pagina iniziale",
+    "title": "Rivedere le flashcard",
+    "remove": "Cancellare",
+    "edit": "Modifica",
+    "show": "ritorno",
+    "showAnswer": "Mostra la risposta",
+    "fail": "Da rivedere",
+    "success": "Successo",
+    "reasons": {
+      "difficulty": "Difficoltà",
+      "hard": "Troppo difficile",
+      "easy": "Troppo facile",
+      "other": "Un altro motivo:"
+    },
+    "tuto": "Cercate di trovare la risposta nella vostra testa e poi visualizzatela per valutarvi.",
+    "again": "Ancora",
+    "easy": "Facile",
+    "hard": "Difficile",
+    "continue": "Continua",
+    "day": "0 giorni | 1 giorno | {n} giorni",
+    "minute": "0 minuti | 1 minuto | {n} minuti",
+    "speak": "Ascolta",
+    "lose": "Perso",
+    "question": "Domanda",
+    "answer": "Risposta"
+  },
+  "login": {
+    "apple": "Connettiti con Apple",
+    "google": "Connettersi con Google",
+    "title": "Benvenuti a",
+    "subtitle": "Imparare facilmente ciò che si vuole",
+    "continue_with_otp": "Oppure continuate con un'e-mail",
+    "continue_with_provider": "O connettersi con Google/Apple",
+    "login": "Accedi",
+    "submit": "Invia il codice",
+    "resendOTP": "Reinvio del codice",
+    "email": "Email",
+    "emailSent": "È stato inviato un codice a {email}.",
+    "password": "Codice ricevuto via e-mail",
+    "name": "Nome"
+  },
+  "node": {
+    "review": "Aggiornato | Rivedere una flashcard | Rivedere {n} flashcard",
+    "open": "Nota aperta",
+    "add": {
+      "folder": {},
+      "note": {}
+    },
+    "summary": "Sintesi",
+    "quiz": {
+      "title": "Quiz"
+    },
+    "suggested": "I suggerimenti di Diane",
+    "remove": "Cancellare",
+    "edit": {
+      "title": "Modificare il mazzo",
+      "description": "È possibile modificare o eliminare il proprio mazzo",
+      "name": "Nome del ponte",
+      "namePlaceholder": "Nuovo nome del mazzo",
+      "color": "Colore del ponte",
+      "colorPlaceholder": "Nuovo colore della coperta",
+      "icon": "Icona del ponte",
+      "iconPlaceholder": "Nuova icona del ponte",
+      "parent": "Cartella dei genitori",
+      "parentPlaceholder": "Cartella madre del ponte",
+      "category": "Categoria",
+      "categoryPlaceholder": "Categoria del ponte",
+      "public": "Pubblico",
+      "language": "Lingua di destinazione del ponte",
+      "languagePlaceholder": "Lingua di destinazione del ponte",
+      "descriptionLabel": "Descrizione del mazzo (opzionale)",
+      "descriptionPlaceholder": "Descrizione della nota",
+      "publicDialog": {
+        "title": "Rendere pubblico il ponte",
+        "description": "È possibile rendere pubblico il proprio mazzo in modo che possa essere visto e duplicato da tutti gli utenti."
+      },
+      "titlePlaceholder": "Titolo"
+    },
+    "noFlashcardsDescription": "Puoi aggiungere manualmente o chiedere a Diane",
+    "suggestedDescription": "Di seguito sono riportate alcune flashcard suggerite per il vostro mazzo. È possibile aggiungerne altre e rivederle utilizzando il pulsante \"Rivedi\" nella parte superiore della pagina.",
+    "noFlashcards": "Ancora nessuna flashcard",
+    "export": "Carte di esportazione",
+    "import": "Importa carte",
+    "importCsv": "Importa CSV",
+    "review_info": "Ripassare le flashcard del giorno",
+    "duplicate_info": "Aggiungi questo mazzo al tuo",
+    "summary_info": "Generare un riepilogo",
+    "quiz_info": "Mettete alla prova le vostre conoscenze con un quiz (genera scelte multiple dalle flashcard di questo mazzo)",
+    "note": {
+      "title": "Nota",
+      "placeholder": "Aggiungi testo..."
+    },
+    "flashcards": {
+      "title": "Flashcards"
+    },
+    "sources": {
+      "title": "Fonti",
+      "empty": "Nessuna fonte collegata a questo mazzo"
+    },
+    "add_tag": "Aggiungere un'etichetta",
+    "search_tag": "Cerca o crea un file",
+    "add_folder": "Aggiungere a una cartella",
+    "addManually": "Aggiungi manualmente",
+    "generateFlashcards": "Generare carte",
+    "generateFlashcardsDescription": "Diane genererà flashcard dalle fonti",
+    "orAddManually": "O aggiungere manualmente",
+    "duplicate": "Duplicato da revisionare",
+    "settings": {
+      "review": "Revisione",
+      "actions": "Azioni",
+      "reverse": "Invertire la domanda e la risposta",
+      "reverseDescription": "La domanda e la risposta a volte saranno invertite per lavorare la memorizzazione in entrambe le direzioni",
+      "audio": "Attiva la riproduzione audio",
+      "audioDescription": "Puoi ascoltare la domanda e rispondere al lavoro la pronuncia",
+      "questionLang": "Linguaggio della domanda",
+      "answerLang": "Linguaggio di risposta"
+    },
+    "list": {
+      "title": "Lista",
+      "no_decks": "Svuotare la schiena",
+      "settings": "Parametri"
+    },
+    "spaceRepetition": {
+      "title": "Distanziato"
+    },
+    "generateFlashcardsLoading": "Diane genera flashcard...",
+    "generateNoteLoading": "Diane genera un riassunto..."
+  },
+  "settings": {
+    "logout": "Disconnessione",
+    "deleteMyAccount": "Cancellare il mio account",
+    "confirmDelete": "Voglio cancellare il mio account e tutti i miei dati",
+    "title": "Parametri",
+    "allowPushNotifications": "Attivare le notifiche",
+    "send_feedback": "Ritorno",
+    "animation": "Attiva animazioni",
+    "advanced": "Moda avanzata",
+    "advancedDescription": "Poster Maggiori informazioni sul funzionamento della ripetizione distanziata",
+    "animationDescription": "Durante le revisioni le carte girano visivamente",
+    "upgradePlan": "Passare al livello successivo",
+    "cancel": "Termina il mio abbonamento",
+    "cancelDescription": "Voglio porre fine al mio abbonamento e fermare il rinnovamento automatico",
+    "subscriptionCancelled": "Il tuo abbonamento è stato cancellato",
+    "subscriptionCancelError": "Scusa si è verificato un errore. Si prega di contattare il supporto su WhatsApp"
+  },
+  "profile": {
+    "unfollow": "non seguono più",
+    "follow": "seguire",
+    "description": "Biografia",
+    "decks": "Tutte le flashcard",
+    "edit": {
+      "title": "Modificare il proprio profilo",
+      "name": "Nome",
+      "namePlaceholder": "Il tuo nome"
+    }
+  },
+  "card": {
+    "edit": {
+      "question": "Domanda",
+      "questionPlaceholder": "Domanda",
+      "answer": "Risposta",
+      "answerPlaceholder": "Risposta",
+      "title": "Modificare la flashcard"
+    },
+    "add": {
+      "title": "Aggiungere una flashcard"
+    }
+  },
+  "add": {
+    "filePdf": {
+      "error": {
+        "noText": "Nessun testo trovato nel file PDF. Provare con un altro file",
+        "process": "Si è verificato un errore durante l'elaborazione del file"
+      },
+      "title": "Generare flashcard da un PDF"
+    },
+    "generateFlashcards": "Generazione di flashcard",
+    "title": "Generazione di flashcard",
+    "ai": {
+      "label": "AI"
+    },
+    "fromAi": "Con Diane",
+    "description": "Cosa si vuole usare per generare le flashcard?",
+    "formAiLabel": "Vorrei delle flashcard su :",
+    "fromAiPlaceholder": "Verbi irregolari in inglese",
+    "fromSource": "Da una fonte esterna",
+    "fromCommunity": "Con la comunità certificata",
+    "selectFlashcards": "Selezionare le flashcard",
+    "flashcardsSelected": "schede flash selezionate",
+    "selectFlashcardsDescription": "Esaminate e selezionate le flashcard che volete aggiungere alla vostra collezione.",
+    "noFlashcards": "Nessuna flashcard disponibile",
+    "image": {
+      "error": {
+        "noText": "Nessun testo trovato. Si prega di riprovare",
+        "process": "Si è verificato un errore durante l'elaborazione dei file"
+      },
+      "title": "Generare flashcard da immagini",
+      "camera": "Macchina fotografica",
+      "gallery": "Galleria"
+    },
+    "youtube": {
+      "error": {
+        "invalidUrl": "Inserire un URL o un ID video YouTube valido",
+        "noSubtitles": "Non sono stati trovati sottotitoli per questo video. Il video potrebbe non avere sottotitoli nella lingua selezionata."
+      },
+      "success": "Caricamento riuscito di {count} voci di sottotitoli",
+      "title": "Generare flashcard da un video di YouTube",
+      "urlLabel": "URL del video di YouTube",
+      "urlPlaceholder": "https://www.youtube.com/watch?v=VIDEO_ID"
+    },
+    "video": {
+      "label": "Video",
+      "description": "Solo Youtube"
+    },
+    "file": {
+      "label": "File",
+      "description": "PDF, powerpoint, foto ..."
+    },
+    "scan": {
+      "label": "Scansione",
+      "description": "Foto di una lezione, una pagina di un libro..."
+    },
+    "tags": {
+      "technology": "🤖 Tecnologia",
+      "language": "🌍 Lingua",
+      "english": "🇬🇧 Inglese",
+      "science": "🔬 Scienze",
+      "history": "📚 Storia",
+      "philosophy": "🧠 Filosofia",
+      "psychology": "💭 Psicologia",
+      "digital": "💻 Professioni digitali",
+      "exam": "📚 Esame",
+      "geography": "🗺️ Geografia",
+      "other": "✨ Altro",
+      "medical": "🩺 Medicina",
+      "law": "⚖️ Legge"
+    },
+    "note": {
+      "label": "Nota",
+      "description": "Nuova nota vuota. Puoi generare schede di memoria e quiz"
+    },
+    "folder": {
+      "label": "Nuova cartella",
+      "description": "È quindi possibile aggiungere note"
+    },
+    "community": {
+      "label": "Comunità",
+      "description": "Mazzo creato da utenti certificati"
+    },
+    "more": "Chiedi altre carte",
+    "defaultTitle": "Unità",
+    "flashcard": {
+      "label": "Schede di memoria",
+      "description": "Domanda da un lato, risposta dall'altra (autovalutazione)"
+    },
+    "quiz": {
+      "label": "Scelta multipla",
+      "description": "Trova la risposta giusta tra le proposte"
+    }
+  },
+  "onboarding": {
+    "steps": [
+      {
+        "type": "component",
+        "key": "gettingStarted"
+      },
+      {
+        "type": "select",
+        "key": "why",
+        "save": "profile",
+        "description": "Questo ci permette di adattare la tua esperienza alle tue esigenze specifiche.",
+        "question": "Cosa ti motiva?",
+        "choices": [
+          {
+            "value": "high-school",
+            "label": "Scuola",
+            "icon": "emoji:📚",
+            "description": "Preparazione agli esami e miglioramento dei voti"
+          },
+          {
+            "value": "university",
+            "icon": "emoji:🎓",
+            "label": "Università",
+            "description": "Padroneggiare materie e concetti complessi"
+          },
+          {
+            "value": "work",
+            "icon": "emoji:💼",
+            "label": "Lavoro",
+            "description": "Sviluppo professionale e certificazioni"
+          },
+          {
+            "value": "other",
+            "icon": "emoji:💡",
+            "label": "Altro",
+            "description": "Interesse personale e apprendimento continuo"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "key": "memory",
+        "question": "Ricordi ciò che impari a lungo termine?",
+        "description": "",
+        "choices": [
+          {
+            "value": "99",
+            "label": "Totalmente",
+            "icon": "text:99%",
+            "description": "Ricordo il 99% di ciò che imparo a lungo termine"
+          },
+          {
+            "value": "75",
+            "icon": "text:75%",
+            "label": "Bene",
+            "description": "Ricordo il 75% di ciò che imparo a lungo termine"
+          },
+          {
+            "value": "50",
+            "icon": "text:50%",
+            "label": "Parzialmente",
+            "description": "Ricordo il 50% di ciò che imparo a lungo termine"
+          },
+          {
+            "value": "20",
+            "icon": "text:20%",
+            "label": "Poco",
+            "description": "Ricordo meno del 20% di ciò che imparo a lungo termine"
+          }
+        ]
+      },
+      {
+        "type": "component",
+        "key": "ebbinghaus"
+      },
+      {
+        "type": "component",
+        "key": "spaceRepetition"
+      },
+      {
+        "type": "select",
+        "display": "grid",
+        "key": "howLearn",
+        "multiple": true,
+        "save": "preferred_review_types",
+        "question": "Come ti piace imparare?",
+        "choices": [
+          {
+            "value": "flashcard",
+            "label": "Carte di memoria",
+            "icon": "lucide:gallery-vertical-end",
+            "description": "Domanda su un lato, risposta sull'altro (autovalutazione)"
+          },
+          {
+            "value": "quiz",
+            "label": "Quiz",
+            "icon": "lucide:copy-check",
+            "description": "Domande a scelta multipla"
+          },
+          {
+            "value": "ai",
+            "label": "IA",
+            "icon": "lucide:bot",
+            "description": "Conversando con un'IA"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "display": "grid",
+        "key": "how",
+        "save": "preferred_sources",
+        "multiple": true,
+        "question": "Da cosa vuoi imparare?",
+        "choices": [
+          {
+            "value": "pdf",
+            "label": "File",
+            "icon": "lucide:file-image",
+            "description": "Da un PDF"
+          },
+          {
+            "value": "video",
+            "label": "Video",
+            "icon": "lucide:youtube",
+            "description": "Da un video di YouTube"
+          },
+          {
+            "value": "note",
+            "label": "Nota",
+            "icon": "lucide:file-text",
+            "description": "Da appunti"
+          },
+          {
+            "value": "audio",
+            "label": "Registrazione",
+            "icon": "lucide:mic",
+            "description": "Da registrazioni audio (lezioni, conferenze...)"
+          },
+          {
+            "value": "ai",
+            "label": "IA",
+            "icon": "lucide:bot",
+            "description": "Spiegando cosa vuoi imparare"
+          }
+        ]
+      },
+      {
+        "type": "component",
+        "nativeOnly": true,
+        "key": "notificationPermission"
+      }
+    ],
+    "gettingStarted": {
+      "login": "Accedi",
+      "alreadyHaveAnAccount": "Avete già un account?",
+      "title": "Imparate ciò che volete<br><b class='text-primary'>facilmente</b> e conservate a <b class='text-primary'>lungo termine</b>.",
+      "subtitle": "Diane aiuta a riprendere il controllo dell'apprendimento e a migliorare la memoria",
+      "next": "Inizio",
+      "madeForYou": {
+        "title": "Contenuti creati appositamente per voi",
+        "description": "Diane crea contenuti su misura per ciò che si vuole imparare, in qualsiasi campo."
+      },
+      "improvesYourMemory": {
+        "title": "Migliorare la memoria",
+        "description": "Il nostro algoritmo di ripetizione distanziata consente di conservare ciò che si impara a lungo termine, aumentando la memoria."
+      },
+      "becomeSmarter": {
+        "title": "Diventare più intelligenti",
+        "description": "Il vostro ragionamento si basa esclusivamente sulle vostre esperienze passate, quindi la vostra conoscenza è il vostro bene più prezioso."
+      },
+      "skip": "Passate a trovarci e provate subito"
+    },
+    "notificationPermission": {
+      "title": "Abilita le notifiche",
+      "description": "Le notifiche vi aiuteranno a rimanere aggiornati sulle vostre revisioni e a migliorare il vostro apprendimento.",
+      "benefits": "Ricevere promemoria personalizzati per ottimizzare l'apprendimento e non perdere mai un'importante sessione di revisione.",
+      "allowButton": "Attivare le notifiche",
+      "skipButton": "Superare questa fase"
+    },
+    "ebbinghaus": {
+      "description": "Dimentichiamo <b>l'80% di ciò che impariamo in un mese</b> se non facciamo alcuno sforzo per rivedere o consolidare queste informazioni.",
+      "note": "Curva di dimenticanza di Ebbinghaus",
+      "title": "Secondo la curva di dimenticanza di Ebbinghaus"
+    },
+    "spacedRepetition": {
+      "note": "Con la ripetizione distanziata",
+      "description": "La <b>ripetizione distanziata</b> mantiene la conoscenza rivedendo strategicamente i contenuti proprio quando si sta per dimenticarli. Ogni revisione <b>rafforza la memoria</b>.",
+      "title": "La soluzione?",
+      "review": "Recensione"
+    }
+  },
+  "toast": {
+    "link_copied": "Il link è stato copiato",
+    "import_success": "{count} carte importate con successo",
+    "import_error": "Errore nell'importazione del file CSV",
+    "update_success": "Aggiornato correttamente"
+  },
+  "ai": {},
+  "chat": {
+    "title": "Cosa vuoi imparare?",
+    "placeholder": "Parla di quello che vuoi imparare ...",
+    "suggestions": [
+      "Voglio imparare i verbi irregolari in inglese",
+      "Voglio arricchire il mio vocabolario in inglese",
+      "Voglio arricchire il mio vocabolario in informatica",
+      "Voglio imparare la storia francese",
+      "Aiutami a preparare il mio esame di matematica"
+    ],
+    "community_deck": "Flashcard della comunità",
+    "error": "Si è verificato un errore, riprova più tardi.",
+    "subtitle": "Diane ti aiuterà a memorizzare a <b>lungo termine</b> e migliorare la tua <b>memoria</b> attraverso la ripetizione spaziata. Se vuoi saperne di più, chiedi pure.",
+    "modes": {
+      "title": "Seleziona una modalità",
+      "data": [
+        {
+          "key": "flashcards",
+          "name": "Flashcards",
+          "icon": "lucide:gallery-vertical-end",
+          "description": "Diane genererà delle flashcard"
+        },
+        {
+          "key": "discussion",
+          "name": "Discussione",
+          "icon": "lucide:message-circle",
+          "description": "Risposte alle tue domande"
+        },
+        {
+          "key": "reflection",
+          "name": "Riflessione",
+          "icon": "lucide:message-circle-question",
+          "description": "Diane ti aiuterà a trovare la risposta da te stessa"
+        }
+      ],
+      "flashcards": {
+        "description": "Diane genererà flashcard",
+        "name": "Flashcard & Quiz"
+      },
+      "discussion": {
+        "name": "Discussione",
+        "description": "Rispondi alle tue domande (AI classica)"
+      },
+      "note": {
+        "name": "Nota",
+        "description": "Diane crea note da una fonte"
+      },
+      "summary": {
+        "name": "Modulo"
+      }
+    },
+    "flashcards": "Flashcards",
+    "quiz": "Quiz",
+    "summary": "Sintesi",
+    "ai": "Discussione",
+    "discussion": "Discussione",
+    "sources": {
+      "file": {
+        "label": "File"
+      }
+    },
+    "open": "Aperto",
+    "close": "Chiudere",
+    "enlarge": "Ingrandire",
+    "accept": "Rifiuta la selezione | Aggiungi {n} carte",
+    "prompts": {
+      "summary": "Riassume questa fonte"
+    },
+    "errorTooComplex": "Questa richiesta è troppo complessa per la versione gratuita di Diane",
+    "modify_placeholder": "Richiedere una modifica",
+    "wait": "Può essere necessario fino a un minuto"
+  },
+  "navigation": {
+    "desktop": {
+      "decks": "I miei mazzi",
+      "chats": "Discussioni",
+      "tags": "I miei file",
+      "type": "Per tipo",
+      "review": "Rivedere",
+      "new": "Nuovo",
+      "explore": "Esplorare"
+    },
+    "types": {
+      "video": "Video",
+      "document": "Documenti",
+      "folder": "File",
+      "note": "Note"
+    }
+  },
+  "community": {
+    "title": "Ponte comunitario",
+    "description": "È possibile duplicare i mazzi di utenti certificati"
+  },
+  "deck": {
+    "move": "Mossa"
+  },
+  "editor": {
+    "text": "Testo"
+  },
+  "seo": {
+    "title": "Crea flashcard con AI",
+    "description": "Diane è un'applicazione innovativa alimentata dall'intelligenza artificiale progettata per aiutarti a migliorare la tua memoria ed espandere le tue conoscenze. Grazie a flashcard personalizzate, Diane crea sessioni di revisione adattate alle tue esigenze uniche, permettendoti di riapprendere in modo efficace e passare la crescita personale al livello successivo.",
+    "ogDescription": "Semplifica l'apprendimento con flashcard alimentate dall'intelligenza artificiale e sessioni di revisione personalizzate"
+  },
+  "friends": {
+    "add": "Aggiungi un amico",
+    "searchPlaceholder": "Cerca un amico ...",
+    "following": "Seguito",
+    "searchResults": "Risultato di ricerca",
+    "discover": "Scoprire",
+    "noUsers": "Nessun utente trovato",
+    "noUsersDescription": "Prova a regolare la ricerca o torna più tardi."
+  },
+  "paywall": {
+    "dialog": {
+      "1": "Numero illimitato di note",
+      "2": "Più efficiente",
+      "3": "Generazione di quiz e flashcard illimitati",
+      "4": "Funzionalità di anteprima",
+      "title": "Piano superiore",
+      "description": "Hai raggiunto il limite",
+      "options": {
+        "annual": {
+          "label": "Annuale",
+          "price": "{AnnualPrice} al mese",
+          "save": "Risparmia il 48%"
+        },
+        "monthly": {
+          "label": "Mensile",
+          "price": "7,99€ al mese"
+        }
+      },
+      "pay": "Paga",
+      "error": "Si è verificato un errore durante il pagamento. Si prega di riprovare più tardi",
+      "success": "Pagamento effettuato con successo!",
+      "completePayment": "Completare il pagamento",
+      "discountApplied": "Codice sconto attivato",
+      "discountError": "Codice sconto non valido",
+      "hasDiscountCode": "Ho un codice sconto",
+      "discountCodePlaceholder": "Codice sconto",
+      "applyCode": "Applicare",
+      "discountAppliedFree": "L'abbonamento è ora attivo"
+    }
+  },
+  "explore": {
+    "title": "Esplorare",
+    "description": "Mazzi della comunità per tema"
+  }
+}

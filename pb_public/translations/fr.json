@@ -1,0 +1,670 @@
+{
+  "home": {
+    "stats": {
+      "progress": "Progression",
+      "streak": "Jour | Jours",
+      "cards": "Cartes apprises"
+    },
+    "leaderboard": {
+      "title": "Classement"
+    },
+    "title": "Progression",
+    "suggestions": "Suggestions d'amis"
+  },
+  "list": {
+    "title": "Mes decks",
+    "all": "Tout réviser",
+    "noDecks": "Pas encore de cartes mémoire"
+  },
+  "global": {
+    "add": "Ajouter",
+    "duplicate": "Dupliquer",
+    "review": "Réviser",
+    "confirm": "Confirmer",
+    "loading": "Chargement...",
+    "next": "Suivant",
+    "back": "Retour",
+    "day": "{n} jour | {n} jours",
+    "week": "{n} semaine | {n} semaines",
+    "month": "{n} mois",
+    "today": "Aujourd'hui",
+    "tomorrow": "Demain",
+    "cancel": "Annuler",
+    "learnedCards": "{number} carte apprise | {number} cartes apprises",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "card": "{number} carte | {number} cartes",
+    "selectAll": "Tout sélectionner",
+    "deselectAll": "Tout désélectionner",
+    "question": "Question",
+    "answer": "Réponse",
+    "edit": "Modifier",
+    "colors": {
+      "blue": "Bleu",
+      "red": "Rouge",
+      "green": "Vert",
+      "yellow": "Jaune",
+      "purple": "Violet",
+      "indigo": "Indigo",
+      "orange": "Orange",
+      "dark-blue": "Bleu foncé"
+    },
+    "continue": "Continuer",
+    "check": "Vérifier la réponse",
+    "share": "Partager",
+    "link_copied": "Le ",
+    "login": "Se connecter",
+    "learn_more": "En savoir plus",
+    "install": "Installer",
+    "me": "Moi",
+    "follow": "suivre",
+    "install_app": "",
+    "graph": "Graphique",
+    "new": "Nouveau",
+    "leaderboard": "Classement",
+    "freeze": "Geler",
+    "search": "Rechercher",
+    "confirmDelete": "Confirmer la suppression ?",
+    "create": "Créer"
+  },
+  "review": {
+    "finish": "Tu es à jour !",
+    "back": "Retour à la page d'accueil",
+    "title": "Réviser tes cartes mémoire",
+    "remove": "Supprimer",
+    "edit": "Modifier",
+    "show": "retour",
+    "showAnswer": "Afficher la réponse",
+    "minute": "0 minutes | 1 minute | {n} minutes",
+    "day": "0 jours | 1 jour | {n} jours",
+    "again": "Encore",
+    "hard": "Difficile",
+    "easy": "Facile",
+    "fail": "À réviser",
+    "success": "Réussi",
+    "continue": "Continuer",
+    "checkAnswer": "Vérifier la réponse",
+    "tuto": "Essaye de trouver la réponse dans ta tête et ensuite affiche-la pour t'auto-évaluer",
+    "speak": "Écouter",
+    "lose": "Perdu",
+    "question": "Question",
+    "answer": "Réponse"
+  },
+  "login": {
+    "apple": "Se connecter avec Apple",
+    "google": "Se connecter avec Google",
+    "title": "Bienvenue sur",
+    "subtitle": "Apprends ce que tu veux facilement",
+    "continue_with_otp": "Ou continuer avec un email",
+    "continue_with_provider": "Ou se connecter avec Google/Apple",
+    "login": "Se connecter",
+    "submit": "Envoyer le code",
+    "resendOTP": "Renvoyer le code",
+    "email": "Email",
+    "emailSent": "Un code a été envoyé à l'adresse {email}",
+    "password": "Code reçu par email",
+    "name": "Prénom"
+  },
+  "node": {
+    "review": "À jour | Réviser une carte mémoire | Réviser {n} cartes mémoire",
+    "open": "Ouvrir la note",
+    "summary": "Résumé",
+    "quiz": {
+      "title": "Quiz"
+    },
+    "suggested": "Suggestions de Diane",
+    "remove": "Supprimer",
+    "edit": {
+      "title": "Modifier le deck",
+      "description": "Tu peux modifier ou supprimer ton deck",
+      "name": "Nom du deck",
+      "namePlaceholder": "Nouveau nom du deck",
+      "descriptionLabel": "Description du deck (optionnel)",
+      "descriptionPlaceholder": "Description de la note",
+      "color": "Couleur du deck",
+      "colorPlaceholder": "Nouvelle couleur du deck",
+      "icon": "Icône du deck",
+      "iconPlaceholder": "Nouvelle icône du deck",
+      "parent": "Dossier parent",
+      "parentPlaceholder": "Dossier parent du deck",
+      "category": "Catégorie",
+      "categoryPlaceholder": "Catégorie du deck",
+      "public": "Publique",
+      "language": "Langue cible du deck",
+      "languagePlaceholder": "Langue cible du deck",
+      "publicDialog": {
+        "title": "Rendre le deck public",
+        "description": "Tu peux rendre ton deck public pour qu'il soit visible et dupliquable par tous les utilisateurs"
+      },
+      "titlePlaceholder": "Titre"
+    },
+    "suggestedDescription": "Ci-dessous des suggestions de cartes mémoire pour ton deck. Tu peux en ajouter et ensuite les réviser grâce au bouton \"réviser\" tout en haut de la page.",
+    "noFlashcards": "Pas encore de cartes mémoire",
+    "noFlashcardsDescription": "Tu peux en ajouter manuellement ou en demandant à Diane",
+    "export": "Exporter les cartes",
+    "import": "Importer des cartes",
+    "importCsv": "Importer CSV",
+    "review_info": "Réviser les cartes mémoire du jour",
+    "duplicate_info": "Ajouter ce deck aux tiens",
+    "summary_info": "Générer un résumé",
+    "quiz_info": "Teste tes connaissances avec un quiz (génère des choix multiples à partir des cartes mémoire de ce deck)",
+    "note": {
+      "title": "Note",
+      "placeholder": "Ajouter du texte..."
+    },
+    "flashcards": {
+      "title": "Cartes mémoire",
+      "quiz": "Quiz"
+    },
+    "sources": {
+      "title": "Sources",
+      "empty": "Pas de sources liées à ce deck"
+    },
+    "add_tag": "Ajouter un tag",
+    "search_tag": "Rechercher ou créer un dossier",
+    "add_folder": "Ajouter à un dossier",
+    "addManually": "Ajouter manuellement",
+    "generateFlashcards": "Générer des cartes",
+    "generateFlashcardsDescription": "Diane va générer des flashcards à partir des sources",
+    "orAddManually": "Ou ajouter manuellement",
+    "duplicate": "Dupliquer pour réviser",
+    "settings": {
+      "review": "Révision",
+      "actions": "Actions",
+      "reverse": "Inverser la question et la réponse",
+      "reverseDescription": "La question et la réponse seront parfois inversées pour travailler la mémorisation dans les deux sens",
+      "audio": "Activer la lecture audio",
+      "audioDescription": "Vous pourrez écouter la question et la réponse pour travailler la prononciation",
+      "questionLang": "Langue de la question",
+      "answerLang": "Langue de la réponse"
+    },
+    "list": {
+      "title": "Liste",
+      "no_decks": "Dossier vide",
+      "settings": "Paramètres"
+    },
+    "spaceRepetition": {
+      "title": "Répétition espacée"
+    },
+    "generateFlashcardsLoading": "Diane génère des flashcards...",
+    "generateNoteLoading": "Diane génère un résumé..."
+  },
+  "settings": {
+    "logout": "Se déconnecter",
+    "deleteMyAccount": "Supprimer mon compte",
+    "confirmDelete": "Je souhaite supprimer mon compte et toutes mes données",
+    "title": "Paramètres",
+    "allowPushNotifications": "Activer les notifications",
+    "send_feedback": "Faire un retour",
+    "animation": "Activer les animations",
+    "advanced": "Mode avancé",
+    "upgradePlan": "Passer au plan suppérieur",
+    "advancedDescription": "Affiche plus d'informations sur le fonctionnement de la répétition espacée",
+    "animationDescription": "Durant les révisions les cartes se retournent visuellement",
+    "cancel": "Résilier mon abonnement",
+    "cancelDescription": "Je souhaite mettre fin à mon abonnement et stopper le renouvellement automatique",
+    "subscriptionCancelled": "Votre abonnement a bien été annulé",
+    "subscriptionCancelError": "Désolé une erreur s'est produite. Veuillez contacter le support sur WhatsApp"
+  },
+  "profile": {
+    "unfollow": "ne plus suivre",
+    "follow": "suivre",
+    "description": "Biographie",
+    "decks": "Toutes les cartes mémoire",
+    "edit": {
+      "title": "Modifier ton profil",
+      "name": "Nom",
+      "namePlaceholder": "Ton nom"
+    }
+  },
+  "card": {
+    "edit": {
+      "question": "Question",
+      "questionPlaceholder": "Question",
+      "answer": "Réponse",
+      "answerPlaceholder": "Réponse",
+      "title": "Modifier la carte mémoire"
+    },
+    "add": {
+      "title": "Ajouter une carte mémoire"
+    }
+  },
+  "add": {
+    "filePdf": {
+      "error": {
+        "noText": "Aucun texte trouvé dans le fichier PDF. Veuillez essayer un autre fichier",
+        "process": "Une erreur est survenue lors du traitement du fichier"
+      },
+      "title": "Générer des cartes mémoire à partir de PDF"
+    },
+    "generateFlashcards": "Générer des cartes mémoire",
+    "title": "Générer des cartes mémoire",
+    "ai": {
+      "label": "IA"
+    },
+    "fromAi": "Avec Diane",
+    "description": "À partir de quoi veux-tu générer des cartes mémoire ?",
+    "formAiLabel": "Je souhaite des cartes mémoire sur :",
+    "fromAiPlaceholder": "Les verbes irréguliers en anglais",
+    "fromSource": "Depuis une source externe",
+    "fromCommunity": "Avec la communauté certifiée",
+    "selectFlashcards": "Sélectionner les cartes mémoire",
+    "flashcardsSelected": "cartes mémoire sélectionnées",
+    "selectFlashcardsDescription": "Examine et sélectionne les cartes mémoire que tu veux ajouter à ta collection.",
+    "noFlashcards": "Aucune carte mémoire disponible",
+    "image": {
+      "error": {
+        "noText": "Aucun texte trouvé. Veuillez réessayer",
+        "process": "Une erreur est survenue lors du traitement des fichiers"
+      },
+      "title": "Générer des cartes mémoire à partir d'images",
+      "gallery": "Galerie",
+      "camera": "Caméra"
+    },
+    "youtube": {
+      "error": {
+        "invalidUrl": "Veuillez entrer une URL valide ou un identifiant de vidéo YouTube",
+        "noSubtitles": "Aucun sous-titre trouvé pour cette vidéo. La vidéo peut ne pas avoir de sous-titres dans la langue sélectionnée."
+      },
+      "success": "Chargement réussi de {count} entrées de sous-titres",
+      "title": "Générer des cartes mémoire à partir d'une vidéo YouTube",
+      "urlLabel": "URL de la vidéo YouTube",
+      "urlPlaceholder": "https://www.youtube.com/watch?v=VIDEO_ID"
+    },
+    "flashcard": {
+      "label": "Cartes mémoire",
+      "description": "Question d'un côté, réponse de l'autre (auto-évaluation)"
+    },
+    "video": {
+      "label": "Vidéo",
+      "description": "Youtube uniquement"
+    },
+    "file": {
+      "label": "Fichier",
+      "description": "Pdf, powerpoint, photo..."
+    },
+    "scan": {
+      "label": "Scan",
+      "description": "Photo de cours, page de livre..."
+    },
+    "tags": {
+      "technology": "🤖 Technologie",
+      "language": "🌍 Langue",
+      "english": "🇬🇧 Anglais",
+      "science": "🔬 Sciences",
+      "history": "🏰 Histoire",
+      "philosophy": "🧠 Philosophie",
+      "psychology": "💭 Psychologie",
+      "digital": "💻 Métiers du numérique",
+      "exam": "📚 Examen",
+      "geography": "🗺️ Géographie",
+      "other": "✨ Autre",
+      "medical": "🩺 Médecine",
+      "law": "⚖️ Droit"
+    },
+    "note": {
+      "label": "Note",
+      "description": "Nouvelle note vierge. Vous pourrez générer des cartes mémoire et des quiz à partir de celle-ci"
+    },
+    "folder": {
+      "label": "Nouveau dossier",
+      "description": "Tu pourras ensuite lui ajouter des notes"
+    },
+    "community": {
+      "label": "Communauté",
+      "description": "Deck créé par des utilisateurs certifiés"
+    },
+    "more": "Demander plus de cartes",
+    "defaultTitle": "Sans titre",
+    "quiz": {
+      "label": "Question à choix multiple",
+      "description": "Trouve la bonne réponse parmi les propositions"
+    }
+  },
+  "memoryGame": {
+    "title": "Évaluation de ta mémoire",
+    "description": "Nous allons nous adapté à ta mémoire, évaluons donc ta capacité de mémorisation avec un jeu rapide.",
+    "instructions": "Observez attentivement la séquence de tuiles mises en évidence, puis essayez de la répéter dans le même ordre.",
+    "startButton": "Commencer le jeu",
+    "beginTest": "Commencer le test",
+    "watchingPrompt": "Regardez la séquence...",
+    "playingPrompt": "Maintenant, répétez la séquence !",
+    "scoreTitle": "Ton score de mémoire",
+    "improvement": "Diane utilisera ces informations pour optimiser ton processus d'apprentissage. Notre système de répétition espacée t'aidera à améliorer ta mémoire au fil du temps.",
+    "continueButton": "Continuer",
+    "levelComplete": "Niveau terminé !",
+    "nextLevel": "Niveau suivant",
+    "levelUpMessage": "Bon travail ! Maintenant, essayons le niveau {level}",
+    "rulesTitle": "Règles du jeu",
+    "difficultyLevels": "Niveaux de difficulté",
+    "help": "Cliquez sur les tuiles dans le même ordre qu'elles ont été mises en évidence",
+    "levels": {
+      "easy": "Facile",
+      "medium": "Moyen",
+      "hard": "Difficile",
+      "expert": "Expert"
+    },
+    "rules": {
+      "1": "Observez attentivement la séquence de tuiles mises en évidence",
+      "2": "Mémorise l'ordre des tuiles mises en évidence",
+      "3": "Quand c'est ton tour, clique sur les tuiles dans le même ordre",
+      "4": "Chaque niveau augmente en difficulté"
+    },
+    "feedback": {
+      "excellent": "Excellent ! Tu as une mémoire visuelle solide. Nous proposerons des motifs plus complexes pour améliorer davantage ta mémoire.",
+      "good": "Bon travail ! Ta mémoire visuelle est solide. Avec une pratique régulière, tu verras des améliorations significatives.",
+      "average": "Ta mémoire visuelle peut être améliorée. Ne t'inquiète pas - notre système est conçu pour t'aider à renforcer cette compétence."
+    }
+  },
+  "chat": {
+    "placeholder": "Parle de ce que tu veux apprendre...",
+    "suggestions": [
+      "Je souhaite apprendre les verbes irrégulier en anglais",
+      "Je souhaite enrichir mon vocabulaire en anglais",
+      "Je souhaite enrichir mon vocabulaire en informatique",
+      "Je veux apprendre l'histoire de France",
+      "Aide-moi à préparer mon examen de mathématiques"
+    ],
+    "flashcards": "Cartes mémoire",
+    "quiz": "Quiz",
+    "title": "Que veux-tu apprendre ?",
+    "community_deck": "Cartes mémoire de la communauté",
+    "error": "Une erreur est survenue, veuillez réessayer plus tard.",
+    "errorTooComplex": "Cette demande est trop complexe pour la version gratuite de Diane",
+    "subtitle": "Diane va t'aider à retenir sur le <b>long terme</b> et améliorer ta <b>mémoire</b> grâce à la répétition espacée. Si tu veux en savoir plus, demande-lui.",
+    "modes": {
+      "title": "Sélectionner un mode",
+      "flashcards": {
+        "description": "Diane va générer des cartes mémoire",
+        "name": "Cartes mémoire & Quiz"
+      },
+      "discussion": {
+        "name": "Discussion",
+        "description": "Réponse à vos questions (IA classique)"
+      },
+      "note": {
+        "name": "Note",
+        "description": "Diane crée des notes à partir d'une source"
+      },
+      "summary": {
+        "name": "Fiche"
+      }
+    },
+    "sources": {
+      "file": {
+        "label": "Fichier"
+      }
+    },
+    "open": "Ouvrir",
+    "close": "Fermer",
+    "enlarge": "Agrandir",
+    "accept": "Refuser les modifications | Accepter la modification | Accepter les modifications",
+    "prompts": {
+      "summary": "Résume cette source"
+    },
+    "modify_placeholder": "Demande une modification",
+    "wait": "Cela peut prendre jusqu'à une minute"
+  },
+  "toast": {
+    "link_copied": "Le lien a bien été copié",
+    "import_success": "{count} cartes importées avec succès",
+    "import_error": "Échec de l'importation du fichier CSV",
+    "update_success": "Mis à jour avec succès"
+  },
+  "navigation": {
+    "desktop": {
+      "decks": "Mes decks",
+      "chats": "Discussions",
+      "tags": "Mes dossiers",
+      "type": "Par type",
+      "review": "À réviser",
+      "new": "Nouveau",
+      "explore": "Explorer"
+    },
+    "types": {
+      "video": "Vidéos",
+      "document": "Documents",
+      "folder": "Dossiers",
+      "note": "Notes"
+    }
+  },
+  "onboarding": {
+    "ebbinghaus": {
+      "title": "D'après la courbe d'oubli d'Ebbinghaus",
+      "description": "Nous oublions <b>80% de ce que l'on apprend en un mois</b> si nous ne faisons aucun effort pour réviser ou consolider ces informations",
+      "note": "Courbe d'oubli d'Ebbinghaus"
+    },
+    "spacedRepetition": {
+      "title": "La solution ?",
+      "description": "La <b>répétition espacée</b> permet de maintenir les connaissances en révisant stratégiquement le contenu juste au moment où tu es sur le point de l'oublier. Chaque révision <b>renforce ta mémoire</b>.",
+      "review": "Révision",
+      "note": "Avec la répétition espacée"
+    },
+    "gettingStarted": {
+      "title": "Apprend ce que tu veux<br><b class='text-primary'>facilement</b> et retiens sur le <b class='text-primary'>long terme</b>",
+      "subtitle": "Diane t'aide à reprendre le contrôle de ton apprentissage et à améliorer ta mémoire",
+      "next": "Commencer",
+      "alreadyHaveAnAccount": "Tu as déjà un compte ?",
+      "login": "Se connecter",
+      "skip": "Passer et essayer directement"
+    },
+    "notificationPermission": {
+      "title": "Permettre les notifications",
+      "description": "Les notifications t'aideront à rester à jour avec tes révisions et à améliorer ton apprentissage",
+      "benefits": "Reçois des rappels personnalisés pour optimiser ton apprentissage et ne jamais manquer une session de révision importante",
+      "allowButton": "Activer les notifications",
+      "skipButton": "Passer cette étape"
+    },
+    "steps": [
+      {
+        "type": "component",
+        "key": "gettingStarted"
+      },
+      {
+        "type": "select",
+        "key": "why",
+        "save": "profile",
+        "description": "Cela nous permet d'adapter ton expérience à tes besoins spécifiques.",
+        "question": "Qu'est-ce qui te motive ?",
+        "choices": [
+          {
+            "value": "high-school",
+            "label": "Lycée",
+            "icon": "emoji:📚",
+            "description": "Préparation aux examens et amélioration des notes"
+          },
+          {
+            "value": "university",
+            "icon": "emoji:🎓",
+            "label": "Université",
+            "description": "Maîtriser des sujets et des concepts complexes"
+          },
+          {
+            "value": "work",
+            "icon": "emoji:💼",
+            "label": "Travail",
+            "description": "Développement professionnel et certifications"
+          },
+          {
+            "value": "other",
+            "icon": "emoji:💡",
+            "label": "Autre",
+            "description": "Intérêt personnel et apprentissage continu"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "key": "memory",
+        "question": "Te souviens-tu de ce que tu apprends sur le long terme ?",
+        "description": "",
+        "choices": [
+          {
+            "value": "99",
+            "label": "Totalement",
+            "icon": "text:99%",
+            "description": "Je me rappelle de 99% de ce que j'apprends sur le long terme"
+          },
+          {
+            "value": "75",
+            "icon": "text:75%",
+            "label": "Bien",
+            "description": "Je me rappelle de 75% de ce que j'apprends sur le long terme"
+          },
+          {
+            "value": "50",
+            "icon": "text:50%",
+            "label": "Partiellement",
+            "description": "Je me rappelle de 50% de ce que j'apprends sur le long terme"
+          },
+          {
+            "value": "20",
+            "icon": "text:20%",
+            "label": "Peu",
+            "description": "Je me rappelle de moins de 20% de ce que j'apprends sur le long terme"
+          }
+        ]
+      },
+      {
+        "type": "component",
+        "key": "ebbinghaus"
+      },
+      {
+        "type": "component",
+        "key": "spaceRepetition"
+      },
+      {
+        "type": "select",
+        "display": "grid",
+        "key": "howLearn",
+        "multiple": true,
+        "save": "preferred_review_types",
+        "question": "Comment aimes-tu apprendre ?",
+        "choices": [
+          {
+            "value": "flashcard",
+            "label": "Carte mémoires",
+            "icon": "lucide:gallery-vertical-end",
+            "description": "Question d'un côté, réponse de l'autre (auto-évaluation)"
+          },
+          {
+            "value": "quiz",
+            "label": "Quiz",
+            "icon": "lucide:copy-check",
+            "description": "Question à choix multiples"
+          },
+          {
+            "value": "ai",
+            "label": "IA",
+            "icon": "lucide:bot",
+            "description": "En discutant avec une IA"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "display": "grid",
+        "key": "how",
+        "save": "preferred_sources",
+        "multiple": true,
+        "question": "À partir de quoi souhaite tu apprendre ?",
+        "choices": [
+          {
+            "value": "pdf",
+            "label": "Fichier",
+            "icon": "lucide:file-image",
+            "description": "À partir d'un pdf"
+          },
+          {
+            "value": "video",
+            "label": "Vidéo",
+            "icon": "lucide:youtube",
+            "description": "À partir d'une vidéo YouTube"
+          },
+          {
+            "value": "note",
+            "label": "Note",
+            "icon": "lucide:file-text",
+            "description": "À partir de notes"
+          },
+          {
+            "value": "audio",
+            "label": "Enregistrement",
+            "icon": "lucide:mic",
+            "description": "À partir d'enregistrements audio (cours, conférences...)"
+          },
+          {
+            "value": "ai",
+            "label": "IA",
+            "icon": "lucide:bot",
+            "description": "En expliquant ce que tu veux apprendre"
+          }
+        ]
+      },
+      {
+        "type": "component",
+        "nativeOnly": true,
+        "key": "notificationPermission"
+      }
+    ]
+  },
+  "community": {
+    "title": "Deck de la communauté",
+    "description": "Tu peux dupliquer les decks d'utilisateurs certifiés"
+  },
+  "deck": {
+    "move": "Déplacer"
+  },
+  "editor": {
+    "text": "Texte"
+  },
+  "seo": {
+    "title": "Créer des flashcards avec l'IA",
+    "description": "Diane est une application innovante alimentée par l'IA conçue pour vous aider à améliorer votre mémoire et à élargir vos connaissances. Grâce à des flashcards personnalisés, Diane crée des séances de révision adaptées à vos besoins uniques, vous permettant de réapprendre efficacement et de passer votre croissance personnelle au niveau supérieur.",
+    "ogDescription": "Simplifie ton apprentissage avec des flashcards alimentées par l'IA et des séances de révision personnalisées"
+  },
+  "friends": {
+    "add": "Ajouter un ami",
+    "searchPlaceholder": "Rechercher un ami...",
+    "following": "Suivi",
+    "searchResults": "Résultat de la recherche",
+    "discover": "Découvrir",
+    "noUsers": "Aucun utilisateur trouvé",
+    "noUsersDescription": "Essayez d'ajuster votre recherche ou revenez plus tard."
+  },
+  "paywall": {
+    "dialog": {
+      "1": "Nombre de notes illimitées",
+      "2": "IA plus performante",
+      "3": "Génération de quiz et de flashcards illimités",
+      "4": "Fonctionnalités en avant-première",
+      "title": "Passez au plan supérieur",
+      "description": "Vous avez atteint la limite",
+      "options": {
+        "annual": {
+          "label": "Annuel",
+          "price": "{annualPrice} par mois",
+          "save": "Économisez 48%"
+        },
+        "monthly": {
+          "label": "Mensuel",
+          "price": "{monthlyPrice} par mois"
+        }
+      },
+      "pay": "Payer",
+      "error": "Une erreur est survenue lors de votre payement. Veuillez réessayer ultérieurement",
+      "success": "Paiement effectué avec succès !",
+      "completePayment": "Compléter votre paiement",
+      "discountApplied": "Code de réduction activé",
+      "discountError": "Code de réduction invalide",
+      "hasDiscountCode": "J'ai un code de réduction",
+      "discountCodePlaceholder": "Code de réduction",
+      "applyCode": "Appliquer",
+      "discountAppliedFree": "Votre abonnement est maintenant actif"
+    }
+  },
+  "explore": {
+    "title": "Explorer",
+    "description": "Decks de la communauté par thématique"
+  }
+}

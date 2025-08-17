@@ -1,0 +1,15 @@
+{
+  "notifications": {
+    "reviewReminder": {
+      "title": "⏰ Il est temps de reviser {{.Name}} !",
+      "classic": {
+        "1": "Pssst... il est encore temps de réviser",
+        "2": "Tes flashcards t'attendent..."
+      },
+      "streak": {
+        "1": "Ton streak de {{.Streak}} jours est en sécurité... pour l'instant.",
+        "2": "T’es à {{.Streak}} jours consécutifs ! Tu fais une pause maintenant ?"
+      }
+    }
+  }
+}

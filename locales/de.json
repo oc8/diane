@@ -1,0 +1,15 @@
+{
+  "notifications": {
+    "reviewReminder": {
+      "title": "⏰ Es ist an der Zeit, {{.Name}} zu überarbeiten!",
+      "classic": {
+        "1": "Pssst... es ist noch Zeit zum Lernen",
+        "2": "Deine Flashcards warten auf dich..."
+      },
+      "streak": {
+        "1": "Dein Streak von {{.Streak}} Tagen ist sicher - vorerst.",
+        "2": "Du bist bei {{.Streak}} aufeinanderfolgenden Tagen! Machst du jetzt eine Pause?"
+      }
+    }
+  }
+}

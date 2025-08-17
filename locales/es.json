@@ -1,0 +1,15 @@
+{
+  "notifications": {
+    "reviewReminder": {
+      "title": "⏰ ¡Hora de volver a visitar {{.Name}}!",
+      "classic": {
+        "1": "Pssst... todavía hay tiempo para revisar",
+        "2": "Tus fichas te están esperando..."
+      },
+      "streak": {
+        "1": "Tus días de {{.Streak}} están a salvo... por ahora.",
+        "2": "¡Llevas {{.Streak}} días consecutivos! ¿Ahora te tomas un descanso?"
+      }
+    }
+  }
+}

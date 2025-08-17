@@ -1,0 +1,673 @@
+{
+  "home": {
+    "stats": {
+      "progress": "Progreso",
+      "streak": "Día | Días",
+      "cards": "Fichas aprendidas"
+    },
+    "leaderboard": {
+      "title": "Clasificación"
+    },
+    "title": "Progreso",
+    "suggestions": "Sugerencias de amigos"
+  },
+  "profiles": {
+    "suggestions": "Sugerencias de amigos"
+  },
+  "list": {
+    "title": "Mis cubiertas",
+    "all": "Revisar todo",
+    "noDecks": "Aún no hay fichas"
+  },
+  "global": {
+    "add": "Añadir",
+    "review": "Consulte",
+    "confirm": "Confirme",
+    "loading": "Cargando...",
+    "next": "Siguiente",
+    "back": "Volver",
+    "day": "{n} día | {n} días",
+    "cancel": "Cancelar",
+    "learnedCards": "{number} tarjeta aprendida | {number} tarjetas aprendidas",
+    "save": "Regístrese en",
+    "delete": "Borrar",
+    "card": "{number} tarjeta | {number} tarjetas",
+    "selectAll": "Seleccionar todo",
+    "deselectAll": "Deseleccionar todo",
+    "question": "Pregunta",
+    "answer": "Respuesta",
+    "edit": "Modifique",
+    "colors": {
+      "blue": "Azul",
+      "red": "Rojo",
+      "green": "Verde",
+      "yellow": "Amarillo",
+      "purple": "Violeta",
+      "indigo": "Añil",
+      "orange": "Naranja",
+      "dark-blue": "Azul oscuro"
+    },
+    "today": "Hoy",
+    "tomorrow": "Mañana",
+    "duplicate": "Duplicar",
+    "continue": "Continúe en",
+    "check": "Comprobar respuesta",
+    "share": "Compartir",
+    "login": "Conectar",
+    "learn_more": "Más información",
+    "install": "Instale",
+    "me": "Yo",
+    "week": "{n} semana | {n} semanas",
+    "month": "{n} meses",
+    "graph": "Gráfico",
+    "new": "Nuevo",
+    "leaderboard": "Clasificación",
+    "freeze": "Congelar",
+    "search": "Buscar en",
+    "confirmDelete": "¿Confirmar la eliminación?",
+    "create": "Crear"
+  },
+  "review": {
+    "finish": "¡Estás al día!",
+    "back": "Volver a la página de inicio",
+    "title": "Repasa tus fichas",
+    "remove": "Borrar",
+    "edit": "Editar",
+    "show": "devolver",
+    "showAnswer": "Mostrar respuesta",
+    "fail": "Fallar",
+    "success": "Éxito",
+    "tuto": "Intenta encontrar la respuesta en tu cabeza y luego muéstrala para evaluarte.",
+    "again": "Todavía",
+    "easy": "Fácil",
+    "hard": "Difícil",
+    "continue": "Continúe en",
+    "day": "0 días | 1 día | {n} días",
+    "minute": "0 minutos | 1 minuto | {n} minutos",
+    "speak": "Escuchar",
+    "lose": "Perdido",
+    "question": "Pregunta",
+    "answer": "Respuesta"
+  },
+  "login": {
+    "apple": "Conéctate con Apple",
+    "google": "Conectar con Google",
+    "title": "Bienvenido a",
+    "subtitle": "Aprenda lo que quiera fácilmente",
+    "continue_with_otp": "O continúe con un correo electrónico",
+    "continue_with_provider": "O conéctate con Google/Apple",
+    "login": "Iniciar sesión",
+    "submit": "Enviar código",
+    "resendOTP": "Reenviar código",
+    "email": "Correo electrónico",
+    "emailSent": "Se ha enviado un código a {email}.",
+    "password": "Código recibido por correo electrónico",
+    "name": "Nombre"
+  },
+  "node": {
+    "review": "Actualizado | Revisar una ficha | Revisar {n} fichas",
+    "open": "Nota abierta",
+    "add": {
+      "folder": {},
+      "note": {}
+    },
+    "summary": "Resumen",
+    "quiz": {
+      "title": "Cuestionario"
+    },
+    "suggested": "Sugerencias de Diane",
+    "remove": "Borrar",
+    "edit": {
+      "title": "Modificar la cubierta",
+      "description": "Puedes modificar o eliminar tu baraja",
+      "name": "Nombre de la cubierta",
+      "namePlaceholder": "Nuevo nombre de cubierta",
+      "color": "Color de la cubierta",
+      "colorPlaceholder": "Nuevo color de cubierta",
+      "icon": "Icono de cubierta",
+      "iconPlaceholder": "Nuevo icono de cubierta",
+      "parent": "Carpeta principal",
+      "parentPlaceholder": "Carpeta principal de la cubierta",
+      "category": "Categoría",
+      "categoryPlaceholder": "Categoría de cubierta",
+      "public": "Público",
+      "language": "Lengua meta de la cubierta",
+      "languagePlaceholder": "Lengua meta de la cubierta",
+      "descriptionLabel": "Descripción de la cubierta (opcional)",
+      "descriptionPlaceholder": "Descripción de la nota",
+      "publicDialog": {
+        "title": "Hacer pública la cubierta",
+        "description": "Puedes hacer público tu mazo para que pueda ser visto y duplicado por todos los usuarios"
+      },
+      "titlePlaceholder": "Título"
+    },
+    "noFlashcardsDescription": "Puedes agregar manualmente o preguntarle a Diane",
+    "suggestedDescription": "A continuación te sugerimos algunas fichas para tu mazo. Puedes añadir más y luego revisarlas con el botón \"revisar\" de la parte superior de la página.",
+    "noFlashcards": "Aún no hay fichas",
+    "export": "Tarjetas de exportación",
+    "import": "Importar tarjetas",
+    "importCsv": "Importar CSV",
+    "review_info": "Repasar las fichas del día",
+    "duplicate_info": "Añada esta baraja a la suya",
+    "summary_info": "Generar un resumen",
+    "quiz_info": "Pon a prueba tus conocimientos con un cuestionario (genera opciones múltiples a partir de las flashcards de este mazo)",
+    "note": {
+      "title": "Nota",
+      "placeholder": "Añadir texto..."
+    },
+    "flashcards": {
+      "title": "Flashcards"
+    },
+    "sources": {
+      "title": "Fuentes",
+      "empty": "No hay fuentes vinculadas a esta baraja"
+    },
+    "add_tag": "Añadir una etiqueta",
+    "search_tag": "Buscar o crear un archivo",
+    "add_folder": "Añadir a una carpeta",
+    "addManually": "Agregar manualmente",
+    "generateFlashcards": "Generar cartas",
+    "generateFlashcardsDescription": "Diane generará tarjetas de fuentes",
+    "orAddManually": "O agregar manualmente",
+    "duplicate": "Duplicado para revisar",
+    "settings": {
+      "review": "Revisión",
+      "actions": "Comportamiento",
+      "reverse": "Revertir la pregunta y la respuesta",
+      "reverseDescription": "La pregunta y la respuesta a veces se revertirán para trabajar la memorización en ambas direcciones",
+      "audio": "Activar la reproducción de audio",
+      "audioDescription": "Puedes escuchar la pregunta y responder para trabajar la pronunciación",
+      "questionLang": "Lenguaje de la pregunta",
+      "answerLang": "Lenguaje de respuesta"
+    },
+    "list": {
+      "title": "Lista",
+      "no_decks": "Vacío",
+      "settings": "Parámetros"
+    },
+    "spaceRepetition": {
+      "title": "Espaciado"
+    },
+    "generateFlashcardsLoading": "Diane genera tarjetas...",
+    "generateNoteLoading": "Diane genera un resumen..."
+  },
+  "settings": {
+    "logout": "Desconexión",
+    "deleteMyAccount": "Eliminar mi cuenta",
+    "confirmDelete": "Quiero borrar mi cuenta y todos mis datos",
+    "title": "Parámetros",
+    "allowPushNotifications": "Activar notificaciones",
+    "send_feedback": "Devolución",
+    "animation": "Activar animaciones",
+    "advanced": "Moda avanzada",
+    "advancedDescription": "Costeros más información sobre el funcionamiento de la repetición espaciada",
+    "animationDescription": "Durante las revisiones, las tarjetas giran visualmente",
+    "upgradePlan": "Pasar al siguiente nivel",
+    "cancel": "Terminar mi suscripción",
+    "cancelDescription": "Quiero poner fin a mi suscripción y detener la renovación automática",
+    "subscriptionCancelled": "Su suscripción ha sido cancelada",
+    "subscriptionCancelError": "Lo sentimos, se produjo un error. Póngase en contacto con el soporte en WhatsApp"
+  },
+  "profile": {
+    "unfollow": "ya no siguen",
+    "follow": "siga",
+    "description": "Biografía",
+    "decks": "Todas las tarjetas",
+    "edit": {
+      "title": "Modificar su perfil",
+      "name": "Nombre",
+      "namePlaceholder": "Su nombre"
+    }
+  },
+  "card": {
+    "edit": {
+      "question": "Pregunta",
+      "questionPlaceholder": "Pregunta",
+      "answer": "Respuesta",
+      "answerPlaceholder": "Respuesta",
+      "title": "Modificar la flashcard"
+    },
+    "add": {
+      "title": "Añadir una flashcard"
+    }
+  },
+  "add": {
+    "filePdf": {
+      "error": {
+        "noText": "No se ha encontrado texto en el archivo PDF. Pruebe con otro archivo",
+        "process": "Se ha producido un error al procesar el archivo"
+      },
+      "title": "Generar fichas a partir de un PDF"
+    },
+    "generateFlashcards": "Generar fichas",
+    "title": "Generar fichas",
+    "ai": {
+      "label": "AI"
+    },
+    "fromAi": "Con Diane",
+    "description": "¿Qué quieres utilizar para generar las flashcards?",
+    "formAiLabel": "Quisiera fichas sobre :",
+    "fromAiPlaceholder": "Verbos irregulares en inglés",
+    "fromSource": "De una fuente externa",
+    "fromCommunity": "Con la comunidad certificada",
+    "selectFlashcards": "Seleccionar tarjetas",
+    "flashcardsSelected": "tarjetas seleccionadas",
+    "selectFlashcardsDescription": "Examine y seleccione las tarjetas que desee añadir a su colección.",
+    "noFlashcards": "No hay fichas disponibles",
+    "image": {
+      "error": {
+        "noText": "No se ha encontrado ningún texto. Vuelva a intentarlo",
+        "process": "Se ha producido un error al procesar los archivos"
+      },
+      "title": "Generar flashcards a partir de imágenes",
+      "camera": "Cámara",
+      "gallery": "Galería"
+    },
+    "youtube": {
+      "error": {
+        "invalidUrl": "Introduzca una URL válida o un ID de vídeo de YouTube",
+        "noSubtitles": "No se han encontrado subtítulos para este vídeo. Es posible que el vídeo no tenga subtítulos en el idioma seleccionado."
+      },
+      "success": "Carga correcta de {count} entradas de subtítulos",
+      "title": "Generar fichas a partir de un vídeo de YouTube",
+      "urlLabel": "URL del vídeo de YouTube",
+      "urlPlaceholder": "https://www.youtube.com/watch?v=VIDEO_ID"
+    },
+    "video": {
+      "label": "Vídeo",
+      "description": "Sólo Youtube"
+    },
+    "file": {
+      "label": "Archivo",
+      "description": "PDF, PowerPoint, Foto ..."
+    },
+    "scan": {
+      "label": "Escanear",
+      "description": "La foto de una lección, la página de un libro..."
+    },
+    "tags": {
+      "technology": "🤖 Tecnología",
+      "language": "🌍 Idioma",
+      "english": "🇬🇧 Inglés",
+      "science": "🔬 Ciencias",
+      "history": "📚 Historia",
+      "philosophy": "🧠 Filosofía",
+      "psychology": "💭 Psicología",
+      "digital": "💻 Profesiones digitales",
+      "exam": "📚 Examen",
+      "geography": "🗺️ Geografía",
+      "other": "✨ Otro",
+      "medical": "🩺 Medicina",
+      "law": "⚖️ Ley"
+    },
+    "note": {
+      "label": "Nota",
+      "description": "Nueva nota en blanco. Puedes generar tarjetas de memoria y cuestionarios de ella"
+    },
+    "folder": {
+      "label": "Nueva carpeta",
+      "description": "A continuación, puedes añadir notas"
+    },
+    "community": {
+      "label": "Comunidad",
+      "description": "Cubierta creada por usuarios certificados"
+    },
+    "more": "Pide más tarjetas",
+    "defaultTitle": "Unidad",
+    "flashcard": {
+      "label": "Tarjetas de memoria",
+      "description": "Pregunta en un lado, responda al otro (autoevaluación)"
+    },
+    "quiz": {
+      "label": "Opción múltiple",
+      "description": "Encuentra la respuesta correcta entre las propuestas"
+    }
+  },
+  "onboarding": {
+    "steps": [
+      {
+        "type": "component",
+        "key": "gettingStarted"
+      },
+      {
+        "type": "select",
+        "key": "why",
+        "description": "Esto nos permite adaptar tu experiencia a tus necesidades específicas.",
+        "question": "¿Qué te motiva?",
+        "save": "profile",
+        "choices": [
+          {
+            "value": "high-school",
+            "label": "Secundaria",
+            "icon": "emoji:📚",
+            "description": "Preparación para exámenes y mejora de calificaciones"
+          },
+          {
+            "value": "university",
+            "icon": "emoji:🎓",
+            "label": "Universidad",
+            "description": "Dominar temas y conceptos complejos"
+          },
+          {
+            "value": "work",
+            "icon": "emoji:💼",
+            "label": "Trabajo",
+            "description": "Desarrollo profesional y certificaciones"
+          },
+          {
+            "value": "other",
+            "icon": "emoji:💡",
+            "label": "Otro",
+            "description": "Interés personal y aprendizaje continuo"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "key": "memory",
+        "question": "¿Recuerdas lo que aprendes a largo plazo?",
+        "description": "",
+        "choices": [
+          {
+            "value": "99",
+            "label": "Totalmente",
+            "icon": "text:99%",
+            "description": "Recuerdo el 99% de lo que aprendo a largo plazo"
+          },
+          {
+            "value": "75",
+            "icon": "text:75%",
+            "label": "Bien",
+            "description": "Recuerdo el 75% de lo que aprendo a largo plazo"
+          },
+          {
+            "value": "50",
+            "icon": "text:50%",
+            "label": "Parcialmente",
+            "description": "Recuerdo el 50% de lo que aprendo a largo plazo"
+          },
+          {
+            "value": "20",
+            "icon": "text:20%",
+            "label": "Poco",
+            "description": "Recuerdo menos del 20% de lo que aprendo a largo plazo"
+          }
+        ]
+      },
+      {
+        "type": "component",
+        "key": "ebbinghaus"
+      },
+      {
+        "type": "component",
+        "key": "spaceRepetition"
+      },
+      {
+        "type": "select",
+        "display": "grid",
+        "key": "howLearn",
+        "multiple": true,
+        "save": "preferred_review_types",
+        "question": "¿Cómo te gusta aprender?",
+        "choices": [
+          {
+            "value": "flashcard",
+            "label": "Tarjetas de memoria",
+            "icon": "lucide:gallery-vertical-end",
+            "description": "Pregunta de un lado, respuesta del otro (autoevaluación)"
+          },
+          {
+            "value": "quiz",
+            "label": "Quiz",
+            "icon": "lucide:copy-check",
+            "description": "Preguntas de opción múltiple"
+          },
+          {
+            "value": "ai",
+            "label": "IA",
+            "icon": "lucide:bot",
+            "description": "Conversando con una IA"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "display": "grid",
+        "key": "how",
+        "save": "preferred_sources",
+        "multiple": true,
+        "question": "¿De qué quieres aprender?",
+        "choices": [
+          {
+            "value": "pdf",
+            "label": "Archivo",
+            "icon": "lucide:file-image",
+            "description": "De un PDF"
+          },
+          {
+            "value": "video",
+            "label": "Video",
+            "icon": "lucide:youtube",
+            "description": "De un video de YouTube"
+          },
+          {
+            "value": "note",
+            "label": "Nota",
+            "icon": "lucide:file-text",
+            "description": "De notas"
+          },
+          {
+            "value": "audio",
+            "label": "Grabación",
+            "icon": "lucide:mic",
+            "description": "De grabaciones de audio (clases, conferencias...)"
+          },
+          {
+            "value": "ai",
+            "label": "IA",
+            "icon": "lucide:bot",
+            "description": "Explicando lo que quieres aprender"
+          }
+        ]
+      },
+      {
+        "type": "component",
+        "nativeOnly": true,
+        "key": "notificationPermission"
+      }
+    ],
+    "gettingStarted": {
+      "login": "Iniciar sesión",
+      "alreadyHaveAnAccount": "¿Ya tiene una cuenta?",
+      "title": "Aprende lo que quieras<br><b class='text-primary'>fácilmente</b> y retenlo a <b class='text-primary'>largo plazo</b>.",
+      "subtitle": "Diane le ayuda a recuperar el control de su aprendizaje y a mejorar su memoria",
+      "next": "Inicio",
+      "madeForYou": {
+        "title": "Contenidos creados sólo para usted",
+        "description": "Diane crea contenidos adaptados a lo que quieres aprender, sea cual sea el campo"
+      },
+      "improvesYourMemory": {
+        "title": "Mejore su memoria",
+        "description": "Nuestro algoritmo de repetición espaciada le permite retener lo aprendido a largo plazo, al tiempo que aumenta su memoria."
+      },
+      "becomeSmarter": {
+        "title": "Ser más inteligente",
+        "description": "Tu razonamiento se basa únicamente en tus experiencias pasadas, por lo que tus conocimientos son tu bien más preciado."
+      },
+      "skip": "Pase y pruebe directamente"
+    },
+    "notificationPermission": {
+      "title": "Activar las notificaciones",
+      "description": "Las notificaciones te ayudarán a estar al día de tus revisiones y a mejorar tu aprendizaje",
+      "benefits": "Reciba recordatorios personalizados para optimizar su aprendizaje y no perderse nunca una sesión de repaso importante",
+      "allowButton": "Activar notificaciones",
+      "skipButton": "Superar esta etapa"
+    },
+    "ebbinghaus": {
+      "description": "Olvidamos el <b>80% de lo que aprendemos en un mes</b> si no hacemos ningún esfuerzo por revisar o consolidar esta información",
+      "note": "Curva de olvido de Ebbinghaus",
+      "title": "Según la curva de olvido de Ebbinghaus"
+    },
+    "spacedRepetition": {
+      "note": "Con repetición espaciada",
+      "description": "La <b>repetición espaciada</b> mantiene los conocimientos repasando estratégicamente los contenidos justo cuando estás a punto de olvidarlos. Cada repaso <b>fortalece tu memoria</b>.",
+      "title": "¿La solución?",
+      "review": "Consulte"
+    }
+  },
+  "toast": {
+    "link_copied": "El enlace ha sido copiado",
+    "import_success": "{count} cartas importadas con éxito",
+    "import_error": "Error al importar el archivo CSV",
+    "update_success": "Actualizado con éxito"
+  },
+  "ai": {},
+  "chat": {
+    "title": "¿Qué quieres aprender?",
+    "placeholder": "Habla sobre lo que quieres aprender ...",
+    "suggestions": [
+      "Quiero aprender verbos irregulares en inglés",
+      "Quiero enriquecer mi vocabulario en inglés",
+      "Quiero enriquecer mi vocabulario en informática",
+      "Quiero aprender historia de Francia",
+      "Ayúdame a preparar mi examen de matemáticas"
+    ],
+    "community_deck": "Tarjetas de la comunidad",
+    "error": "Se ha producido un error, inténtalo de nuevo más tarde.",
+    "subtitle": "Diane te ayudará a retener a <b>largo plazo</b> y mejorar tu <b>memoria</b> mediante la repetición espaciada. Si quieres saber más, solo pregunta.",
+    "modes": {
+      "title": "Selecciona un modo",
+      "data": [
+        {
+          "key": "flashcards",
+          "name": "Flashcards",
+          "icon": "lucide:gallery-vertical-end",
+          "description": "Diane generará tarjetas de memoria"
+        },
+        {
+          "key": "discussion",
+          "name": "Debate",
+          "icon": "lucide:message-circle",
+          "description": "Respuestas a tus preguntas"
+        },
+        {
+          "key": "reflection",
+          "name": "Reflexión",
+          "icon": "lucide:message-circle-question",
+          "description": "Diane te ayudará a encontrar la respuesta por ti mismo"
+        }
+      ],
+      "flashcards": {
+        "description": "Diane generará tarjetas de flash",
+        "name": "Flashcard & Quiz"
+      },
+      "discussion": {
+        "name": "Discusión",
+        "description": "Responda a sus preguntas (AI clásica)"
+      },
+      "note": {
+        "name": "Nota",
+        "description": "Diane crea notas de una fuente"
+      },
+      "summary": {
+        "name": "Forma"
+      }
+    },
+    "flashcards": "Flashcards",
+    "quiz": "Cuestionario",
+    "summary": "Resumen",
+    "ai": "Debate",
+    "discussion": "Debate",
+    "sources": {
+      "file": {
+        "label": "Archivo"
+      }
+    },
+    "open": "Abrir",
+    "close": "Cerrar",
+    "enlarge": "Ampliar",
+    "accept": "Rechazar selección | Añadir {n} tarjetas",
+    "prompts": {
+      "summary": "Resume esta fuente"
+    },
+    "errorTooComplex": "Esta solicitud es demasiado compleja para la versión gratuita de Diane",
+    "modify_placeholder": "Solicitar una modificación",
+    "wait": "Puede tomar hasta un minuto"
+  },
+  "navigation": {
+    "desktop": {
+      "decks": "Mis cubiertas",
+      "chats": "Debates",
+      "tags": "Mis archivos",
+      "type": "Por tipo",
+      "review": "Revisar",
+      "new": "Nuevo",
+      "explore": "Explorar"
+    },
+    "types": {
+      "video": "Videos",
+      "document": "Documentos",
+      "folder": "Archivos",
+      "note": "Notas"
+    }
+  },
+  "community": {
+    "title": "Cubierta comunitaria",
+    "description": "Puedes duplicar las cubiertas de los usuarios certificados"
+  },
+  "deck": {
+    "move": "Mover"
+  },
+  "editor": {
+    "text": "Texto"
+  },
+  "seo": {
+    "title": "Crear tarjetas con AI",
+    "description": "Diane es una aplicación innovadora alimentada por AI diseñada para ayudarlo a mejorar su memoria y ampliar su conocimiento. Gracias a las tarjetas personalizadas, Diane crea sesiones de revisión adaptadas a sus necesidades únicas, lo que le permite volver a aprender de manera efectiva y pasar su crecimiento personal al siguiente nivel.",
+    "ogDescription": "Simplifica su aprendizaje con tarjetas alimentadas por IA y sesiones de revisión personalizadas"
+  },
+  "friends": {
+    "add": "Agrega un amigo",
+    "searchPlaceholder": "Buscar un amigo ...",
+    "following": "Hacer un seguimiento",
+    "searchResults": "Resultado de la investigación",
+    "discover": "Descubrir",
+    "noUsers": "No se encontró un usuario",
+    "noUsersDescription": "Intente ajustar su búsqueda o regrese más tarde."
+  },
+  "paywall": {
+    "dialog": {
+      "1": "Número ilimitado de notas",
+      "2": "Más eficiente",
+      "3": "Generación de cuestionarios y tarjetas ilimitadas",
+      "4": "Características de vista previa",
+      "title": "Plano superior",
+      "description": "Has alcanzado el límite",
+      "options": {
+        "annual": {
+          "label": "Anual",
+          "price": "{AnnualPrice} por mes",
+          "save": "Ahorrar 48%"
+        },
+        "monthly": {
+          "label": "Mensual",
+          "price": "{monthlyPrice} por mes"
+        }
+      },
+      "pay": "Pagar",
+      "error": "Se ha producido un error durante el pago. Vuelva a intentarlo más tarde",
+      "success": "¡Pago efectuado con éxito!",
+      "completePayment": "Completar el pago",
+      "discountApplied": "Código de descuento activado",
+      "discountError": "Código de descuento no válido",
+      "hasDiscountCode": "Tengo un código de descuento",
+      "discountCodePlaceholder": "Código de descuento",
+      "applyCode": "Solicitar",
+      "discountAppliedFree": "Su suscripción está activa"
+    }
+  },
+  "explore": {
+    "title": "Explorar",
+    "description": "Mazos comunitarios por tema"
+  }
+}
