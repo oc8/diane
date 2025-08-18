@@ -1,3 +1,5 @@
+<img src="/header.png" alt="Diane AI" />
+
 # Diane AI
 Learn anything, remember everything. Take notes and create flashcards with an intelligent knowledge graph.
 
